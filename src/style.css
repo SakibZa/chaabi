@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  #keyboard {
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  .row {
+    margin-bottom: 10px;
+  }
+  
+  .key {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .highlighted {
+    background-color: yellow;
+  }
+  
+  .stats {
+    margin-top: 20px;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  .buttons button {
+    margin-right: 10px;
+  }
+  
